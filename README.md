@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -19,4 +20,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0283-move-zeroes) |
 ## Math
@@ -34,4 +35,8 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

@@ -54,6 +54,7 @@
 | [0125-valid-palindrome](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0680-valid-palindrome-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -82,4 +83,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

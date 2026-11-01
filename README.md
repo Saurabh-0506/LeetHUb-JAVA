@@ -11,6 +11,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |

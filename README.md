@@ -57,6 +57,7 @@
 | [0344-reverse-string](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/0680-valid-palindrome-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Saurabh-0506/LeetHUb-JAVA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Sorting
 |  |
 | ------- |
